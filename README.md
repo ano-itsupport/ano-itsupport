@@ -1,4 +1,4 @@
-    <!-- Teks berjalan -->
+
 <p>
     <foreignObject x="0" y="600" width="800" height="80">
       <div xmlns="http://www.w3.org/1999/xhtml" style="text-align:center;">
