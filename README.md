@@ -1,17 +1,9 @@
-<!-- Animasi Elang Terbang Responsive -->
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm84bnRuZWtxczJ5NWp4eHYwYnpteXoxcHZpcTJrdmx1NmNwOWJzMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L05HgB2h6qICDs5Sms/giphy.gif" 
-       alt="Flying Eagle" 
-       style="width:100%; max-width:300px; height:auto; border-radius:10px;" />
-</p>
     <!-- Teks berjalan -->
 <p>
     <foreignObject x="0" y="600" width="800" height="80">
       <div xmlns="http://www.w3.org/1999/xhtml" style="text-align:center;">
-        <img src="https://readme-typing-svg.herokuapp.com?color=%23FFD700&size=26&center=true&vCenter=true&width=500&lines=Wazaapp+Manteman..." alt="Typing SVG" style="width:100%; max-width:500px; height:auto;" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%23FFD700&size=26&center=true&vCenter=true&width=500&lines=Wazaapps+Manteman..." alt="Typing SVG" style="width:100%; max-width:500px; height:auto;" />
       </div>
-    </foreignObject>
-  </svg>
 </p>
 
 <h2 align="center">I am Bang Ano</h2>
@@ -20,10 +12,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ano-itsupport&show_icons=true&theme=tokyonight" alt="GitHub stats" style="max-width:100%; height:auto;" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ano-itsupport&theme=tokyonight" alt="GitHub streak" style="max-width:100%; height:auto;" />
 </p>
 
 ---
@@ -55,5 +43,5 @@
 ---
 
 <p align="center">
-  <b>Nikmati Saja Errornya wkwkwk</b></b>
+  <b>Hmmm... Gass aelahh</b>
 </p>
