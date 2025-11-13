@@ -5,6 +5,7 @@
        style="width:100%; max-width:300px; height:auto; border-radius:10px;" />
 </p>
     <!-- Teks berjalan -->
+<p>
     <foreignObject x="0" y="600" width="800" height="80">
       <div xmlns="http://www.w3.org/1999/xhtml" style="text-align:center;">
         <img src="https://readme-typing-svg.herokuapp.com?color=%23FFD700&size=26&center=true&vCenter=true&width=500&lines=Wazaapp+Manteman..." alt="Typing SVG" style="width:100%; max-width:500px; height:auto;" />
